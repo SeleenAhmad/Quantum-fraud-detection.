@@ -120,7 +120,7 @@ It demonstrates:
 
 ---
 
-## 🔮 Future Work
+##  Future Work
 
 * Time-series extension (adoption trends)
 * Regression models for profit and fraud prediction
