@@ -231,8 +231,4 @@ SELECT
 FROM
     fraud_data_copy;
 
-ALTER TABLE fraud_data_copy
-DROP COLUMN transaction_value_usd_z,
-DROP COLUMN security_level_score_z,
-DROP COLUMN expected_profit_usd_z,
-DROP COLUMN latency_ms_z;
+
