@@ -3,10 +3,10 @@ DROP TABLE IF EXISTS fraud_data;
 
 CREATE TABLE fraud_data (
     transaction_id         INT,
-    region                 VARCHAR(50),  -- Added this to match CSV
-    protocol_type             VARCHAR(20),  -- This is 'protocol_type' in CSV
+    region                 VARCHAR(50),  
+    protocol_type             VARCHAR(20),  
     transaction_value_usd  DOUBLE,
-    fraud_detected            TINYINT,      -- This is 'fraud_detected' in CSV
+    fraud_detected            TINYINT,      
     security_level_score   DOUBLE,
     expected_profit_usd    DOUBLE,
     latency_ms             DOUBLE
