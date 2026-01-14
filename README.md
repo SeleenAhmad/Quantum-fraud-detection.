@@ -1,4 +1,4 @@
-# Quantum-CRYPTO
+# Quantum-vs-Classical-fraud-detection
 end to end data analysis project for quantum vs classical systems in detecting identity fraud 
 #  Quantum vs Classical Cryptography: Fraud Detection & Profit Analysis
 
